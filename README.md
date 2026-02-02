@@ -109,6 +109,8 @@ This One-Pager serves as an introductory document to potential investors, provid
 
 <img width="408" height="611" alt="光伏储能房车系统 3f2e237858e03e328ef9ea90cf658318" src="https://github.com/user-attachments/assets/cff38513-3ef7-462e-91d8-66f1b9a98624" />
 
+<img width="1239" height="942" alt="光伏储能房车系统202602image" src="https://github.com/user-attachments/assets/ee953663-7a7f-4c15-a9ab-783f02f64dea" />
+
 
 这个eCNH++SOLAR+RV项目的特点不是“炒概念”，
 而是能源 + 居住 + 结算 = 文明级长期资产。
