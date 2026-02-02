@@ -133,4 +133,24 @@ https://pancakeswap.finance/swap?chain=sol&outputCurrency=7GQnqthWKa5v2GqXYWhmgW
 
 https://web3.okx.com/token/solana/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
 
+
+
+
+
+# Gold exchange eCNH
+
+
+<img width="1237" height="831" alt="gold exchange eCNH 202601 image" src="https://github.com/user-attachments/assets/23d31b8c-5406-4b2e-bf1a-a1246af1ccd4" />
+
+<img width="1235" height="1007" alt="gold exchange eCNH 202602 image" src="https://github.com/user-attachments/assets/a2df6655-5760-4223-bb4a-7219660e01ec" />
+
+<img width="1233" height="612" alt="gold exchange eCNH 202603 image" src="https://github.com/user-attachments/assets/8a6a7b41-ed75-4d42-9636-e808a291d11c" />
+
+<img width="1236" height="997" alt="gold exchange eCNH 202604 image" src="https://github.com/user-attachments/assets/16b68081-67ab-43a6-8f50-007581add311" />
+
+<img width="1243" height="997" alt="gold exchange eCNH 202605 image" src="https://github.com/user-attachments/assets/40152aa8-1cc0-4ab8-a639-d64f06271159" />
+
+<img width="1239" height="980" alt="gold exchange eCNH 202606 image" src="https://github.com/user-attachments/assets/c46c780c-081d-4ec8-9579-50ed7fcc2e83" />
+
+
 (仅供参考，随时完善优化升级到最高的正能量eCNH 2026-2095)
