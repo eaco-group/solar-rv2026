@@ -112,3 +112,5 @@ This One-Pager serves as an introductory document to potential investors, provid
 
 这个eCNH++SOLAR+RV项目的特点不是“炒概念”，
 而是能源 + 居住 + 结算 = 文明级长期资产。
+
+(仅供参考，随时完善优化升级到最高的正能量eCNH )
