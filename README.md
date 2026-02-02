@@ -113,4 +113,8 @@ This One-Pager serves as an introductory document to potential investors, provid
 这个eCNH++SOLAR+RV项目的特点不是“炒概念”，
 而是能源 + 居住 + 结算 = 文明级长期资产。
 
+<img width="1180" height="781" alt="可以众筹USDT,USDC, SOL,eCNH，BTC,ETH,BNB 等等来 海外发展光伏房车系统2026-347fc1b1054960147c0fb2121cf33991" src="https://github.com/user-attachments/assets/467992bc-982a-43c6-a2b2-97d905fffce9" />
+
+
+
 (仅供参考，随时完善优化升级到最高的正能量eCNH )
