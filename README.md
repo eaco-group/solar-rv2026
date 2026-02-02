@@ -116,5 +116,15 @@ This One-Pager serves as an introductory document to potential investors, provid
 <img width="1180" height="781" alt="可以众筹USDT,USDC, SOL,eCNH，BTC,ETH,BNB 等等来 海外发展光伏房车系统2026-347fc1b1054960147c0fb2121cf33991" src="https://github.com/user-attachments/assets/467992bc-982a-43c6-a2b2-97d905fffce9" />
 
 
+SOL链上记账单位ECNH CA：
+
+
+7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
+
+https://www.oklink.com/solana/token/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
+
+https://solscan.io/token/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
+
+
 
 (仅供参考，随时完善优化升级到最高的正能量eCNH )
